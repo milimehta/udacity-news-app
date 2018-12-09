@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item> <!-- Newest -->
+        <item>@string/settings_order_by_oldest_label</item>  <!-- Oldest -->
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item> <!-- newest -->
+        <item>@string/settings_order_by_oldest_value</item> <!-- oldest -->
+    </string-array>
+
+    <string-array name="settings_category_labels">
+        <item>@string/politics</item> <!-- Politics -->
+        <item>@string/technology</item>
+        <item>@string/entertainment</item>
+        <item>@string/sports</item>
+        <item>@string/health</item>
+    </string-array>
+
+    <string-array name="settings_category_values">
+        <item>@string/value_politics</item> <!-- politics -->
+        <item>@string/value_technology</item>
+        <item>@string/value_entertainment</item>
+        <item>@string/value_sports</item>
+        <item>@string/value_health</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- Settings Activity Title -->
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_order_by_default">newest</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+
+    <string name="settings_order_by_newest_value">newest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+
+    <string name="settings_order_by_key">order-by</string>
+    <string name="settings_order_by_label">Order By</string>
+
+    <string name="technology">Technology</string>
+    <string name="politics">Politics</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+
+    <string name="value_technology">technology</string>
+    <string name="value_politics">politics</string>
+    <string name="value_entertainment">entertainment</string>
+    <string name="value_health">health</string>
+    <string name="value_sports">sports</string>
+
+    <string name="settings_category_key">q</string>
+    <string name="settings_category_label">Category</string>
+
+    <string name="settings_category_by_default">@string/value_technology</string>
+    <string name="settings_menu_item">Settings</string>
+
+</resources>
